@@ -44,7 +44,7 @@ export function MainPageProdutos() {
             <div className="min-w-full justify-end my-8">
                 <div>Total de produtos: {produtos.length + 1}</div>
             </div>
-            <form className="flex justify-center gap-4 mb-12">
+            <form onSubmit={pesquisa} className="flex justify-center gap-4 mb-12">
               <Input typeInput="search" text="Nome do produto" setValue={setValue} />
               <input type="submit" value="Pesquisar" className="py-2 px-6 rounded-lg bg-blue-500 text-xs text-white hover:text-black hover:bg-white transition-all" />
             </form>
