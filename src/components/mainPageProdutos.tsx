@@ -32,7 +32,7 @@ export function MainPageProdutos() {
         
     }
     data.sort((a:any,b:any) => {
-            if(a.name > b.name) {
+            if(a.name < b.name) {
                 return -1
             }else {
                 return 1
@@ -46,9 +46,7 @@ export function MainPageProdutos() {
             </div>
             <form className="flex justify-center gap-4 mb-12">
               <Input typeInput="search" text="Nome do produto" setValue={setValue} />
-              <button className="py-2 px-6 rounded-lg bg-blue-500 text-xs text-white hover:text-black hover:bg-white transition-all" onSubmit={(ev:any) => {
-                pesquisa(ev)
-              }}>Pesquisar</button>
+              <input type="submit" value="Pesquisar" className="py-2 px-6 rounded-lg bg-blue-500 text-xs text-white hover:text-black hover:bg-white transition-all" />
             </form>
             {
                 produtoSearch === null ? null : produtoSearch === undefined ? <div className="text-center">Não tem nenhum produto cadastro com este nome</div> : <Link key={produtoSearch.id} href={`/${email}/${produtoSearch.id}`} className="bg-slate-200 p-4 flex justify-between text-xs gap-3 hover:text-white hover:bg-blue-500 transition-all rounded-lg">

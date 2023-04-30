@@ -34,7 +34,7 @@ export function MainPageEsqueSenha() {
             <p className="p-3 text-center pb-12">
                 Digite o email que criou com ele a conta e a sua senha vai aparecer em baixo do compo de email
             </p>
-            <form onSubmit={sendEmail}>
+            <form onSubmit={sendEmail} className="flex flex-col justify-center items-center gap-4">
             <Input typeInput="email" text="email" setValue={setEmail} />
             <div className="my-6 flex gap-2">
                 <input type="submit"  value="Enviar" className="py-2 px-6 rounded-lg bg-blue-500 text-white hover:text-black hover:bg-white transition-all" />

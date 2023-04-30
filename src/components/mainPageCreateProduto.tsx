@@ -37,7 +37,7 @@ export function MainPageCreateProduto({email}:any) {
                 <h1 className="pl-6 md:pl-1 text-2xl self-start">
                     Criar Produto
                 </h1>
-               <form onSubmit={senProduto}>
+               <form onSubmit={senProduto} className="flex justify-center items-center flex-col gap-6">
                <Input typeInput="text" text="Nome do produto" setValue={setName} />
                 <Input typeInput="number" text="preço do produto" setValue={setPreco} />
 
