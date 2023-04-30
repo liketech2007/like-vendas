@@ -23,7 +23,8 @@ export function MainPageProdutos() {
     if(produtos === null) {
         return <Load />
     }
-    function pesquisa() {
+    function pesquisa(ev:any) {
+        ev.preventDefault()
         const res = produtos.find((produto:any) => {
             return produto.name === value.toLowerCase()
         })
@@ -43,10 +44,12 @@ export function MainPageProdutos() {
             <div className="min-w-full justify-end my-8">
                 <div>Total de produtos: {produtos.length + 1}</div>
             </div>
-            <div className="flex justify-center gap-4 mb-12">
+            <form className="flex justify-center gap-4 mb-12">
               <Input typeInput="search" text="Nome do produto" setValue={setValue} />
-              <button className="py-2 px-6 rounded-lg bg-blue-500 text-xs text-white hover:text-black hover:bg-white transition-all" onClick={pesquisa}>Pesquisar</button>
-            </div>
+              <button className="py-2 px-6 rounded-lg bg-blue-500 text-xs text-white hover:text-black hover:bg-white transition-all" onSubmit={(ev:any) => {
+                pesquisa(ev)
+              }}>Pesquisar</button>
+            </form>
             {
                 produtoSearch === null ? null : produtoSearch === undefined ? <div className="text-center">Não tem nenhum produto cadastro com este nome</div> : <Link key={produtoSearch.id} href={`/${email}/${produtoSearch.id}`} className="bg-slate-200 p-4 flex justify-between text-xs gap-3 hover:text-white hover:bg-blue-500 transition-all rounded-lg">
                         <div className="w-1/6 text-center text-[8px] md:text-xs">{produtoSearch.name}</div>

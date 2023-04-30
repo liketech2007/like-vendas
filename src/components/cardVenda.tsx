@@ -9,7 +9,8 @@ export function CardVenda({email,id,quatTotal}:any) {
     const [quat,setquat] = useState("")
     const [load,setLoad] = useState(false)
     const [err,setError] = useState<boolean | string>(false)
-    async function sendVenda() {
+    async function sendVenda(ev:any) {
+        ev.preventDefault()
         if(preco.length !== 0 && quat.length !== 0) {
             setError(false)
             setLoad(true)
@@ -28,7 +29,9 @@ export function CardVenda({email,id,quatTotal}:any) {
               <Input typeInput="text" text="Preço" setValue={setPreco} />
               <Input typeInput="text" text="Quantidade" setValue={setquat} />
               <div className="flex gap-2">
-              <button className="py-2 px-6 rounded-lg bg-blue-500 text-xs text-white hover:text-black hover:bg-white transition-all" onClick={sendVenda}>Enviar</button>
+              <button className="py-2 px-6 rounded-lg bg-blue-500 text-xs text-white hover:text-black hover:bg-white transition-all" onSubmit={(ev:any) => {
+                sendVenda(ev)
+              }}>Enviar</button>
               { load && <Spinner size={32} className="animate-spin" />}
               </div>
               {

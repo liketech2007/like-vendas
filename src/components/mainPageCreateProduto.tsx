@@ -6,7 +6,8 @@ import { getProdutos } from "@/controlles/getProdutos";
 
 export function MainPageCreateProduto({email}:any) {
     
-    async function senProduto() {
+    async function senProduto(ev:any) {
+        ev.preventDefault()
         if(name.length !== 0 && preco.length !== 0) {
             setLoad(true)
             setErr(false)
@@ -41,7 +42,9 @@ export function MainPageCreateProduto({email}:any) {
                 <Input typeInput="number" text="preço do produto" setValue={setPreco} />
 
                 <div className="flex gap-3">
-                <button className="py-2 px-6 rounded-lg bg-blue-500 text-white hover:text-black hover:bg-white transition-all" onClick={senProduto}>Criar</button>
+                <button className="py-2 px-6 rounded-lg bg-blue-500 text-white hover:text-black hover:bg-white transition-all" onSubmit={(ev:any) => {
+                    senProduto(ev)
+                }}>Criar</button>
                             { load && <Spinner size={32} className="animate-spin" />}
                 </div>
                   <div>

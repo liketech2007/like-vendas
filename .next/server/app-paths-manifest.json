@@ -1,15 +1,4 @@
 {
-  "/[loja]/create-produto/page": "app/[loja]/create-produto/page.js",
-  "/[loja]/[produto]/page": "app/[loja]/[produto]/page.js",
-  "/[loja]/dashbord/page": "app/[loja]/dashbord/page.js",
-  "/[loja]/produtos/page": "app/[loja]/produtos/page.js",
-  "/api/hello/route": "app/api/hello/route.js",
-  "/[loja]/loja/page": "app/[loja]/loja/page.js",
-  "/esquece-senha/page": "app/esquece-senha/page.js",
-  "/list-lojas/page": "app/list-lojas/page.js",
-  "/login/page": "app/login/page.js",
-  "/cadastro/page": "app/cadastro/page.js",
-  "/pagamento/page": "app/pagamento/page.js",
   "/page": "app/page.js",
-  "/sobre-nos/page": "app/sobre-nos/page.js"
+  "/login/page": "app/login/page.js"
 }

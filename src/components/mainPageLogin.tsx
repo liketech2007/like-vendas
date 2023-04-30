@@ -35,7 +35,8 @@ type MainPageLoginType = {
             localStorage.setItem("loja", JSON.stringify(loja));
         },[loja])
 
-        async function senLoja() {
+        async function senLoja(ev:any) {
+            ev.preventDefault()
             const checkemail = checkEmail(email)
             const checkpassword = checkPassword(password)
             if(checkemail == false || checkpassword == false || name.length == 0) {
@@ -66,7 +67,8 @@ type MainPageLoginType = {
         }
             
         }
-        async function login() {
+        async function login(ev:any) {
+            ev.preventDefault()
             const checkemail = checkEmail(email)
             const checkpassword = checkPassword(password)
             if(checkemail == false || checkpassword == false) {
@@ -100,7 +102,9 @@ type MainPageLoginType = {
                         <InputPassword text="Senha" isLogin={true} setPassword={setPassword} />
                     </div>
                     <div className="w-[200px] flex items-center justify-center">
-                    <button className="py-2 px-6 rounded-lg bg-blue-500 text-white hover:text-black hover:bg-white transition-all" onClick={login}>Entrar</button>
+                    <button className="py-2 px-6 rounded-lg bg-blue-500 text-white hover:text-black hover:bg-white transition-all" onSubmit={(ev:any) => {
+                        login(ev)
+                    }}>Entrar</button>
                         { load && <Spinner size={32} className="animate-spin" />}
                     </div>
                     </form>
@@ -129,7 +133,9 @@ type MainPageLoginType = {
                      </div>
                      <div className="flex justify-center my-10">
                         <div className="w-[200px] flex items-center justify-center">
-                            <button className="py-2 px-6 rounded-lg bg-blue-500 text-white hover:text-black hover:bg-white transition-all" onClick={senLoja}>Criar conta</button>
+                            <button className="py-2 px-6 rounded-lg bg-blue-500 text-white hover:text-black hover:bg-white transition-all" onSubmit={(ev:any) => {
+                                senLoja(ev)
+                            }}>Criar conta</button>
                             { load && <Spinner size={32} className="animate-spin" />}
                         </div>
                      </div>
