@@ -1,0 +1,15 @@
+{
+  "/[loja]/create-produto/page": "/[loja]/create-produto",
+  "/[loja]/[produto]/page": "/[loja]/[produto]",
+  "/[loja]/dashbord/page": "/[loja]/dashbord",
+  "/[loja]/produtos/page": "/[loja]/produtos",
+  "/api/hello/route": "/api/hello",
+  "/[loja]/loja/page": "/[loja]/loja",
+  "/esquece-senha/page": "/esquece-senha",
+  "/list-lojas/page": "/list-lojas",
+  "/login/page": "/login",
+  "/cadastro/page": "/cadastro",
+  "/pagamento/page": "/pagamento",
+  "/page": "/",
+  "/sobre-nos/page": "/sobre-nos"
+}
