@@ -31,7 +31,7 @@ export function CardEntrada({email,id,quatTotal}:any) {
               <Input typeInput="text" text="Valor de aquisição do produto" setValue={setPreco} />
               <Input typeInput="text" text="Quantidade" setValue={setquat} />
               <div className="flex gap-2">
-              <button className="py-2 px-6 rounded-lg bg-blue-500 text-xs text-white hover:text-black hover:bg-white transition-all" onSubmit={() => {
+              <button className="py-2 px-6 rounded-lg bg-blue-500 text-xs text-white hover:text-black hover:bg-white transition-all" onSubmit={(ev:any) => {
                 sendEntrada(ev)
               }}>Enviar</button>
               { load && <Spinner size={32} className="animate-spin" />}
