@@ -96,15 +96,13 @@ type MainPageLoginType = {
             { isLogin === true ? (
                 <div className="p-3">
                     <h1 className="text-3xl my-10">{heading}</h1>
-                    <form className="flex flex-col items-center">
+                    <form onSubmit={login} className="flex flex-col items-center">
                     <div className="flex flex-col gap-20 mb-16">
                         <Input typeInput="email" text="Email" setValue={setEmail}/>
                         <InputPassword text="Senha" isLogin={true} setPassword={setPassword} />
                     </div>
                     <div className="w-[200px] flex items-center justify-center">
-                    <button className="py-2 px-6 rounded-lg bg-blue-500 text-white hover:text-black hover:bg-white transition-all" onSubmit={(ev:any) => {
-                        login(ev)
-                    }}>Entrar</button>
+                    <input type="submit" value="Entrar" className="py-2 px-6 rounded-lg bg-blue-500 text-white hover:text-black hover:bg-white transition-all" />
                         { load && <Spinner size={32} className="animate-spin" />}
                     </div>
                     </form>
@@ -121,7 +119,7 @@ type MainPageLoginType = {
                 <>
                    <div className="p-3">
                      <h1 className="text-3xl my-10">{heading}</h1>
-                    <form>
+                    <form onSubmit={senLoja}>
                     <div className="flex flex-col justify-center items-center gap-10 md:flex-row">
                         <div className="flex flex-col gap-10">
                         <Input typeInput="email" text="Email" setValue={setEmail}/>
@@ -133,9 +131,7 @@ type MainPageLoginType = {
                      </div>
                      <div className="flex justify-center my-10">
                         <div className="w-[200px] flex items-center justify-center">
-                            <button className="py-2 px-6 rounded-lg bg-blue-500 text-white hover:text-black hover:bg-white transition-all" onSubmit={(ev:any) => {
-                                senLoja(ev)
-                            }}>Criar conta</button>
+                            <input type="submit" value="Cadastrar-se" className="py-2 px-6 rounded-lg bg-blue-500 text-white hover:text-black hover:bg-white transition-all" />
                             { load && <Spinner size={32} className="animate-spin" />}
                         </div>
                      </div>

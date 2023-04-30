@@ -13,7 +13,8 @@ export function MainPageEsqueSenha() {
     const [senha,setSenha] = useState("")
     const [err,setErr] = useState<boolean | string>(false)
 
-    async function sendEmail() {
+    async function sendEmail(ev:any) {
+        ev.preventDefault()
         setLoad(true)
         const res = await verificarEmail(email)
         if(res === undefined){
@@ -33,11 +34,13 @@ export function MainPageEsqueSenha() {
             <p className="p-3 text-center pb-12">
                 Digite o email que criou com ele a conta e a sua senha vai aparecer em baixo do compo de email
             </p>
+            <form onSubmit={sendEmail}>
             <Input typeInput="email" text="email" setValue={setEmail} />
             <div className="my-6 flex gap-2">
-                <button className="py-2 px-6 rounded-lg bg-blue-500 text-white hover:text-black hover:bg-white transition-all" onClick={sendEmail}>Enviar</button>
+                <input type="submit"  value="Enviar" className="py-2 px-6 rounded-lg bg-blue-500 text-white hover:text-black hover:bg-white transition-all" />
                 { load && <Spinner size={32} className="animate-spin" />}
             </div>
+            </form>
             <p className="p-3 text-center pb-12">
                 A sua senha é: {senha}
             </p>

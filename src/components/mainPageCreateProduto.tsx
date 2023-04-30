@@ -37,14 +37,12 @@ export function MainPageCreateProduto({email}:any) {
                 <h1 className="pl-6 md:pl-1 text-2xl self-start">
                     Criar Produto
                 </h1>
-               <form>
+               <form onSubmit={senProduto}>
                <Input typeInput="text" text="Nome do produto" setValue={setName} />
                 <Input typeInput="number" text="preço do produto" setValue={setPreco} />
 
                 <div className="flex gap-3">
-                <button className="py-2 px-6 rounded-lg bg-blue-500 text-white hover:text-black hover:bg-white transition-all" onSubmit={(ev:any) => {
-                    senProduto(ev)
-                }}>Criar</button>
+                <input type="submit" value="Criar" className="py-2 px-6 rounded-lg bg-blue-500 text-white hover:text-black hover:bg-white transition-all" />
                             { load && <Spinner size={32} className="animate-spin" />}
                 </div>
                   <div>

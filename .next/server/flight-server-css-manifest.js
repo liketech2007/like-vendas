@@ -1,1 +1,13 @@
-self.__RSC_CSS_MANIFEST={"__entry_css_mods__":{"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\[loja]\\create-produto\\page":["C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\globals.css"],"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\[loja]\\dashbord\\page":["C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\globals.css"],"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\[loja]\\loja\\page":["C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\globals.css"],"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\[loja]\\produtos\\page":["C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\globals.css"],"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\cadastro\\page":["C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\globals.css"],"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\esquece-senha\\page":["C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\globals.css"],"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\list-lojas\\page":["C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\globals.css"],"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\login\\page":["C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\globals.css"],"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\pagamento\\page":["C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\globals.css"],"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\page":["C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\globals.css"],"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\sobre-nos\\page":["C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\globals.css"],"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\[loja]\\[produto]\\page":["C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\globals.css"]},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\layout.tsx":["C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\globals.css"]}
+self.__RSC_CSS_MANIFEST={
+  "__entry_css_mods__": {
+    "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\page": [
+      "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\globals.css"
+    ],
+    "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\login\\page": [
+      "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\globals.css"
+    ]
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\layout.tsx": [
+    "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\globals.css"
+  ]
+}

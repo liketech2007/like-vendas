@@ -25,13 +25,11 @@ export function CardVenda({email,id,quatTotal}:any) {
     }
     return (
         <div className="w-full flex justify-end">
-            <form className="my-12 p-6 flex justify-center items-center gap-4 flex-col bg-white rounded-lg shadow-lg">
+            <form onSubmit={sendVenda} className="my-12 p-6 flex justify-center items-center gap-4 flex-col bg-white rounded-lg shadow-lg">
               <Input typeInput="text" text="Preço" setValue={setPreco} />
               <Input typeInput="text" text="Quantidade" setValue={setquat} />
               <div className="flex gap-2">
-              <button className="py-2 px-6 rounded-lg bg-blue-500 text-xs text-white hover:text-black hover:bg-white transition-all" onSubmit={(ev:any) => {
-                sendVenda(ev)
-              }}>Enviar</button>
+              <input type="submit" className="py-2 px-6 rounded-lg bg-blue-500 text-xs text-white hover:text-black hover:bg-white transition-all" value="Enviar"/>
               { load && <Spinner size={32} className="animate-spin" />}
               </div>
               {

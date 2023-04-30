@@ -1,1 +1,587 @@
-{"__ssr_module_mapping__":{"170":{"*":{"id":"3889","chunks":["920:920-95ebb69c35b19cb2","931:app/page-297f403e734b557f"],"name":"*","async":false},"":{"id":"3889","chunks":["920:920-95ebb69c35b19cb2","931:app/page-297f403e734b557f"],"name":"","async":false},"Main1":{"id":"3889","chunks":["920:920-95ebb69c35b19cb2","931:app/page-297f403e734b557f"],"name":"Main1","async":false}},"611":{"*":{"id":"5958","chunks":["272:webpack-aed66878af6b01d7","455:455-71f5fa50de641fb5"],"name":"*","async":false},"":{"id":"5958","chunks":["272:webpack-aed66878af6b01d7","455:455-71f5fa50de641fb5"],"name":"","async":false},"default":{"id":"5958","chunks":["272:webpack-aed66878af6b01d7","455:455-71f5fa50de641fb5"],"name":"default","async":false}},"1142":{"*":{"id":"8884","chunks":["784:9d89bbae-f4333af4125d7236","925:118af8ed-e5df7a757e47d4b6","920:920-95ebb69c35b19cb2","590:590-355aa0015047e9e6","609:609-906181a082292361","358:app/[loja]/[produto]/page-a63bd449f876a870"],"name":"*","async":false},"":{"id":"8884","chunks":["784:9d89bbae-f4333af4125d7236","925:118af8ed-e5df7a757e47d4b6","920:920-95ebb69c35b19cb2","590:590-355aa0015047e9e6","609:609-906181a082292361","358:app/[loja]/[produto]/page-a63bd449f876a870"],"name":"","async":false},"default":{"id":"8884","chunks":["784:9d89bbae-f4333af4125d7236","925:118af8ed-e5df7a757e47d4b6","920:920-95ebb69c35b19cb2","590:590-355aa0015047e9e6","609:609-906181a082292361","358:app/[loja]/[produto]/page-a63bd449f876a870"],"name":"default","async":false}},"2626":{"*":{"id":"2017","chunks":["920:920-95ebb69c35b19cb2","590:590-355aa0015047e9e6","761:app/[loja]/produtos/page-5e885a16bbd5ff44"],"name":"*","async":false},"":{"id":"2017","chunks":["920:920-95ebb69c35b19cb2","590:590-355aa0015047e9e6","761:app/[loja]/produtos/page-5e885a16bbd5ff44"],"name":"","async":false},"default":{"id":"2017","chunks":["920:920-95ebb69c35b19cb2","590:590-355aa0015047e9e6","761:app/[loja]/produtos/page-5e885a16bbd5ff44"],"name":"default","async":false}},"3810":{"*":{"id":"2440","chunks":["920:920-95ebb69c35b19cb2","225:app/[loja]/loja/page-580b31580c472e95"],"name":"*","async":false},"":{"id":"2440","chunks":["920:920-95ebb69c35b19cb2","225:app/[loja]/loja/page-580b31580c472e95"],"name":"","async":false},"default":{"id":"2440","chunks":["920:920-95ebb69c35b19cb2","225:app/[loja]/loja/page-580b31580c472e95"],"name":"default","async":false}},"3920":{"*":{"id":"3716","chunks":["784:9d89bbae-f4333af4125d7236","925:118af8ed-e5df7a757e47d4b6","920:920-95ebb69c35b19cb2","590:590-355aa0015047e9e6","609:609-906181a082292361","358:app/[loja]/[produto]/page-a63bd449f876a870"],"name":"*","async":false},"":{"id":"3716","chunks":["784:9d89bbae-f4333af4125d7236","925:118af8ed-e5df7a757e47d4b6","920:920-95ebb69c35b19cb2","590:590-355aa0015047e9e6","609:609-906181a082292361","358:app/[loja]/[produto]/page-a63bd449f876a870"],"name":"","async":false},"default":{"id":"3716","chunks":["784:9d89bbae-f4333af4125d7236","925:118af8ed-e5df7a757e47d4b6","920:920-95ebb69c35b19cb2","590:590-355aa0015047e9e6","609:609-906181a082292361","358:app/[loja]/[produto]/page-a63bd449f876a870"],"name":"default","async":false}},"4792":{"*":{"id":"2054","chunks":["920:920-95ebb69c35b19cb2","282:app/sobre-nos/page-9f8b3ac4c077911b"],"name":"*","async":false},"":{"id":"2054","chunks":["920:920-95ebb69c35b19cb2","282:app/sobre-nos/page-9f8b3ac4c077911b"],"name":"","async":false},"default":{"id":"2054","chunks":["920:920-95ebb69c35b19cb2","282:app/sobre-nos/page-9f8b3ac4c077911b"],"name":"default","async":false}},"5628":{"*":{"id":"3197","chunks":["920:920-95ebb69c35b19cb2","398:app/list-lojas/page-e15567b78b075428"],"name":"*","async":false},"":{"id":"3197","chunks":["920:920-95ebb69c35b19cb2","398:app/list-lojas/page-e15567b78b075428"],"name":"","async":false},"default":{"id":"3197","chunks":["920:920-95ebb69c35b19cb2","398:app/list-lojas/page-e15567b78b075428"],"name":"default","async":false}},"6174":{"*":{"id":"2918","chunks":["920:920-95ebb69c35b19cb2","845:845-d805fdbbf37c81de","259:259-56c0b82cb5d27bac","626:app/login/page-67bd4d05c29dbb12"],"name":"*","async":false},"":{"id":"2918","chunks":["920:920-95ebb69c35b19cb2","845:845-d805fdbbf37c81de","259:259-56c0b82cb5d27bac","626:app/login/page-67bd4d05c29dbb12"],"name":"","async":false},"MainPageLogin":{"id":"2918","chunks":["920:920-95ebb69c35b19cb2","845:845-d805fdbbf37c81de","259:259-56c0b82cb5d27bac","626:app/login/page-67bd4d05c29dbb12"],"name":"MainPageLogin","async":false}},"6617":{"*":{"id":"3637","chunks":["920:920-95ebb69c35b19cb2","845:845-d805fdbbf37c81de","722:app/esquece-senha/page-4b2e601af9847ed6"],"name":"*","async":false},"":{"id":"3637","chunks":["920:920-95ebb69c35b19cb2","845:845-d805fdbbf37c81de","722:app/esquece-senha/page-4b2e601af9847ed6"],"name":"","async":false},"MainPageEsqueSenha":{"id":"3637","chunks":["920:920-95ebb69c35b19cb2","845:845-d805fdbbf37c81de","722:app/esquece-senha/page-4b2e601af9847ed6"],"name":"MainPageEsqueSenha","async":false}},"7023":{"*":{"id":"8715","chunks":["322:322-4b8f3fda7139c89a","185:app/layout-f2c562053b43cff1"],"name":"*","async":false},"":{"id":"8715","chunks":["322:322-4b8f3fda7139c89a","185:app/layout-f2c562053b43cff1"],"name":"","async":false},"default":{"id":"8715","chunks":["322:322-4b8f3fda7139c89a","185:app/layout-f2c562053b43cff1"],"name":"default","async":false}},"7474":{"*":{"id":"7284","chunks":["920:920-95ebb69c35b19cb2","590:590-355aa0015047e9e6","906:app/[loja]/create-produto/page-93c267e9c21f3f35"],"name":"*","async":false},"":{"id":"7284","chunks":["920:920-95ebb69c35b19cb2","590:590-355aa0015047e9e6","906:app/[loja]/create-produto/page-93c267e9c21f3f35"],"name":"","async":false},"default":{"id":"7284","chunks":["920:920-95ebb69c35b19cb2","590:590-355aa0015047e9e6","906:app/[loja]/create-produto/page-93c267e9c21f3f35"],"name":"default","async":false}},"7657":{"*":{"id":"7001","chunks":["784:9d89bbae-f4333af4125d7236","925:118af8ed-e5df7a757e47d4b6","920:920-95ebb69c35b19cb2","609:609-906181a082292361","805:app/[loja]/dashbord/page-ef187e3b9b68d1c5"],"name":"*","async":false},"":{"id":"7001","chunks":["784:9d89bbae-f4333af4125d7236","925:118af8ed-e5df7a757e47d4b6","920:920-95ebb69c35b19cb2","609:609-906181a082292361","805:app/[loja]/dashbord/page-ef187e3b9b68d1c5"],"name":"","async":false},"default":{"id":"7001","chunks":["784:9d89bbae-f4333af4125d7236","925:118af8ed-e5df7a757e47d4b6","920:920-95ebb69c35b19cb2","609:609-906181a082292361","805:app/[loja]/dashbord/page-ef187e3b9b68d1c5"],"name":"default","async":false}},"8331":{"*":{"id":"1551","chunks":["272:webpack-aed66878af6b01d7","455:455-71f5fa50de641fb5"],"name":"*","async":false},"":{"id":"1551","chunks":["272:webpack-aed66878af6b01d7","455:455-71f5fa50de641fb5"],"name":"","async":false},"default":{"id":"1551","chunks":["272:webpack-aed66878af6b01d7","455:455-71f5fa50de641fb5"],"name":"default","async":false}},"8880":{"*":{"id":"2513","chunks":["272:webpack-aed66878af6b01d7","455:455-71f5fa50de641fb5"],"name":"*","async":false},"":{"id":"2513","chunks":["272:webpack-aed66878af6b01d7","455:455-71f5fa50de641fb5"],"name":"","async":false},"default":{"id":"2513","chunks":["272:webpack-aed66878af6b01d7","455:455-71f5fa50de641fb5"],"name":"default","async":false}},"8892":{"*":{"id":"8950","chunks":["272:webpack-aed66878af6b01d7","455:455-71f5fa50de641fb5"],"name":"*","async":false},"":{"id":"8950","chunks":["272:webpack-aed66878af6b01d7","455:455-71f5fa50de641fb5"],"name":"","async":false},"default":{"id":"8950","chunks":["272:webpack-aed66878af6b01d7","455:455-71f5fa50de641fb5"],"name":"default","async":false}}},"__edge_ssr_module_mapping__":{},"__entry_css_files__":{"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\layout":["static/css/fad99f593d8bd01a.css"]},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\client\\components\\app-router.js":{"id":"611","chunks":["272:webpack-aed66878af6b01d7","455:455-71f5fa50de641fb5"],"name":"*","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js":{"id":"611","chunks":["272:webpack-aed66878af6b01d7","455:455-71f5fa50de641fb5"],"name":"*","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\client\\components\\app-router.js#":{"id":"611","chunks":["272:webpack-aed66878af6b01d7","455:455-71f5fa50de641fb5"],"name":"","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#":{"id":"611","chunks":["272:webpack-aed66878af6b01d7","455:455-71f5fa50de641fb5"],"name":"","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\client\\components\\app-router.js#default":{"id":"611","chunks":["272:webpack-aed66878af6b01d7","455:455-71f5fa50de641fb5"],"name":"default","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#default":{"id":"611","chunks":["272:webpack-aed66878af6b01d7","455:455-71f5fa50de641fb5"],"name":"default","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\client\\components\\error-boundary.js":{"id":"8331","chunks":["272:webpack-aed66878af6b01d7","455:455-71f5fa50de641fb5"],"name":"*","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js":{"id":"8331","chunks":["272:webpack-aed66878af6b01d7","455:455-71f5fa50de641fb5"],"name":"*","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\client\\components\\error-boundary.js#":{"id":"8331","chunks":["272:webpack-aed66878af6b01d7","455:455-71f5fa50de641fb5"],"name":"","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#":{"id":"8331","chunks":["272:webpack-aed66878af6b01d7","455:455-71f5fa50de641fb5"],"name":"","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\client\\components\\error-boundary.js#default":{"id":"8331","chunks":["272:webpack-aed66878af6b01d7","455:455-71f5fa50de641fb5"],"name":"default","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#default":{"id":"8331","chunks":["272:webpack-aed66878af6b01d7","455:455-71f5fa50de641fb5"],"name":"default","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\client\\components\\layout-router.js":{"id":"8892","chunks":["272:webpack-aed66878af6b01d7","455:455-71f5fa50de641fb5"],"name":"*","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js":{"id":"8892","chunks":["272:webpack-aed66878af6b01d7","455:455-71f5fa50de641fb5"],"name":"*","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\client\\components\\layout-router.js#":{"id":"8892","chunks":["272:webpack-aed66878af6b01d7","455:455-71f5fa50de641fb5"],"name":"","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js#":{"id":"8892","chunks":["272:webpack-aed66878af6b01d7","455:455-71f5fa50de641fb5"],"name":"","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\client\\components\\layout-router.js#default":{"id":"8892","chunks":["272:webpack-aed66878af6b01d7","455:455-71f5fa50de641fb5"],"name":"default","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js#default":{"id":"8892","chunks":["272:webpack-aed66878af6b01d7","455:455-71f5fa50de641fb5"],"name":"default","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js":{"id":"8880","chunks":["272:webpack-aed66878af6b01d7","455:455-71f5fa50de641fb5"],"name":"*","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js":{"id":"8880","chunks":["272:webpack-aed66878af6b01d7","455:455-71f5fa50de641fb5"],"name":"*","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js#":{"id":"8880","chunks":["272:webpack-aed66878af6b01d7","455:455-71f5fa50de641fb5"],"name":"","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js#":{"id":"8880","chunks":["272:webpack-aed66878af6b01d7","455:455-71f5fa50de641fb5"],"name":"","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js#default":{"id":"8880","chunks":["272:webpack-aed66878af6b01d7","455:455-71f5fa50de641fb5"],"name":"default","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js#default":{"id":"8880","chunks":["272:webpack-aed66878af6b01d7","455:455-71f5fa50de641fb5"],"name":"default","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\globals.css#":{"id":"null","name":"","chunks":["static/css/fad99f593d8bd01a.css"]},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\layout.tsx":{"id":"7023","chunks":["322:322-4b8f3fda7139c89a","185:app/layout-f2c562053b43cff1"],"name":"*","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\layout.tsx#":{"id":"7023","chunks":["322:322-4b8f3fda7139c89a","185:app/layout-f2c562053b43cff1"],"name":"","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\layout.tsx#default":{"id":"7023","chunks":["322:322-4b8f3fda7139c89a","185:app/layout-f2c562053b43cff1"],"name":"default","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\client\\link.js":{"id":"3920","chunks":["784:9d89bbae-f4333af4125d7236","925:118af8ed-e5df7a757e47d4b6","920:920-95ebb69c35b19cb2","590:590-355aa0015047e9e6","609:609-906181a082292361","358:app/[loja]/[produto]/page-a63bd449f876a870"],"name":"*","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\esm\\client\\link.js":{"id":"3920","chunks":["784:9d89bbae-f4333af4125d7236","925:118af8ed-e5df7a757e47d4b6","920:920-95ebb69c35b19cb2","590:590-355aa0015047e9e6","609:609-906181a082292361","358:app/[loja]/[produto]/page-a63bd449f876a870"],"name":"*","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\client\\link.js#":{"id":"3920","chunks":["784:9d89bbae-f4333af4125d7236","925:118af8ed-e5df7a757e47d4b6","920:920-95ebb69c35b19cb2","590:590-355aa0015047e9e6","609:609-906181a082292361","358:app/[loja]/[produto]/page-a63bd449f876a870"],"name":"","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\esm\\client\\link.js#":{"id":"3920","chunks":["784:9d89bbae-f4333af4125d7236","925:118af8ed-e5df7a757e47d4b6","920:920-95ebb69c35b19cb2","590:590-355aa0015047e9e6","609:609-906181a082292361","358:app/[loja]/[produto]/page-a63bd449f876a870"],"name":"","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\client\\link.js#default":{"id":"3920","chunks":["784:9d89bbae-f4333af4125d7236","925:118af8ed-e5df7a757e47d4b6","920:920-95ebb69c35b19cb2","590:590-355aa0015047e9e6","609:609-906181a082292361","358:app/[loja]/[produto]/page-a63bd449f876a870"],"name":"default","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\esm\\client\\link.js#default":{"id":"3920","chunks":["784:9d89bbae-f4333af4125d7236","925:118af8ed-e5df7a757e47d4b6","920:920-95ebb69c35b19cb2","590:590-355aa0015047e9e6","609:609-906181a082292361","358:app/[loja]/[produto]/page-a63bd449f876a870"],"name":"default","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\[loja]\\create-produto\\page.tsx":{"id":"7474","chunks":["920:920-95ebb69c35b19cb2","590:590-355aa0015047e9e6","906:app/[loja]/create-produto/page-93c267e9c21f3f35"],"name":"*","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\[loja]\\create-produto\\page.tsx#":{"id":"7474","chunks":["920:920-95ebb69c35b19cb2","590:590-355aa0015047e9e6","906:app/[loja]/create-produto/page-93c267e9c21f3f35"],"name":"","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\[loja]\\create-produto\\page.tsx#default":{"id":"7474","chunks":["920:920-95ebb69c35b19cb2","590:590-355aa0015047e9e6","906:app/[loja]/create-produto/page-93c267e9c21f3f35"],"name":"default","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\assests\\logoDoSite.png":{"id":"4792","chunks":["920:920-95ebb69c35b19cb2","282:app/sobre-nos/page-9f8b3ac4c077911b"],"name":"*","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\assests\\logoDoSite.png#":{"id":"4792","chunks":["920:920-95ebb69c35b19cb2","282:app/sobre-nos/page-9f8b3ac4c077911b"],"name":"","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\assests\\logoDoSite.png#default":{"id":"4792","chunks":["920:920-95ebb69c35b19cb2","282:app/sobre-nos/page-9f8b3ac4c077911b"],"name":"default","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\[loja]\\dashbord\\page.tsx":{"id":"7657","chunks":["784:9d89bbae-f4333af4125d7236","925:118af8ed-e5df7a757e47d4b6","920:920-95ebb69c35b19cb2","609:609-906181a082292361","805:app/[loja]/dashbord/page-ef187e3b9b68d1c5"],"name":"*","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\[loja]\\dashbord\\page.tsx#":{"id":"7657","chunks":["784:9d89bbae-f4333af4125d7236","925:118af8ed-e5df7a757e47d4b6","920:920-95ebb69c35b19cb2","609:609-906181a082292361","805:app/[loja]/dashbord/page-ef187e3b9b68d1c5"],"name":"","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\[loja]\\dashbord\\page.tsx#default":{"id":"7657","chunks":["784:9d89bbae-f4333af4125d7236","925:118af8ed-e5df7a757e47d4b6","920:920-95ebb69c35b19cb2","609:609-906181a082292361","805:app/[loja]/dashbord/page-ef187e3b9b68d1c5"],"name":"default","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\[loja]\\loja\\page.tsx":{"id":"3810","chunks":["920:920-95ebb69c35b19cb2","225:app/[loja]/loja/page-580b31580c472e95"],"name":"*","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\[loja]\\loja\\page.tsx#":{"id":"3810","chunks":["920:920-95ebb69c35b19cb2","225:app/[loja]/loja/page-580b31580c472e95"],"name":"","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\[loja]\\loja\\page.tsx#default":{"id":"3810","chunks":["920:920-95ebb69c35b19cb2","225:app/[loja]/loja/page-580b31580c472e95"],"name":"default","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\[loja]\\produtos\\page.tsx":{"id":"2626","chunks":["920:920-95ebb69c35b19cb2","590:590-355aa0015047e9e6","761:app/[loja]/produtos/page-5e885a16bbd5ff44"],"name":"*","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\[loja]\\produtos\\page.tsx#":{"id":"2626","chunks":["920:920-95ebb69c35b19cb2","590:590-355aa0015047e9e6","761:app/[loja]/produtos/page-5e885a16bbd5ff44"],"name":"","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\[loja]\\produtos\\page.tsx#default":{"id":"2626","chunks":["920:920-95ebb69c35b19cb2","590:590-355aa0015047e9e6","761:app/[loja]/produtos/page-5e885a16bbd5ff44"],"name":"default","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\components\\mainPageLogin.tsx":{"id":"6174","chunks":["920:920-95ebb69c35b19cb2","845:845-d805fdbbf37c81de","259:259-56c0b82cb5d27bac","626:app/login/page-67bd4d05c29dbb12"],"name":"*","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\components\\mainPageLogin.tsx#":{"id":"6174","chunks":["920:920-95ebb69c35b19cb2","845:845-d805fdbbf37c81de","259:259-56c0b82cb5d27bac","626:app/login/page-67bd4d05c29dbb12"],"name":"","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\components\\mainPageLogin.tsx#MainPageLogin":{"id":"6174","chunks":["920:920-95ebb69c35b19cb2","845:845-d805fdbbf37c81de","259:259-56c0b82cb5d27bac","626:app/login/page-67bd4d05c29dbb12"],"name":"MainPageLogin","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\components\\mainPageEsqueceSenha.tsx":{"id":"6617","chunks":["920:920-95ebb69c35b19cb2","845:845-d805fdbbf37c81de","722:app/esquece-senha/page-4b2e601af9847ed6"],"name":"*","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\components\\mainPageEsqueceSenha.tsx#":{"id":"6617","chunks":["920:920-95ebb69c35b19cb2","845:845-d805fdbbf37c81de","722:app/esquece-senha/page-4b2e601af9847ed6"],"name":"","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\components\\mainPageEsqueceSenha.tsx#MainPageEsqueSenha":{"id":"6617","chunks":["920:920-95ebb69c35b19cb2","845:845-d805fdbbf37c81de","722:app/esquece-senha/page-4b2e601af9847ed6"],"name":"MainPageEsqueSenha","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\list-lojas\\page.tsx":{"id":"5628","chunks":["920:920-95ebb69c35b19cb2","398:app/list-lojas/page-e15567b78b075428"],"name":"*","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\list-lojas\\page.tsx#":{"id":"5628","chunks":["920:920-95ebb69c35b19cb2","398:app/list-lojas/page-e15567b78b075428"],"name":"","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\list-lojas\\page.tsx#default":{"id":"5628","chunks":["920:920-95ebb69c35b19cb2","398:app/list-lojas/page-e15567b78b075428"],"name":"default","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\components\\main1.tsx":{"id":"170","chunks":["920:920-95ebb69c35b19cb2","931:app/page-297f403e734b557f"],"name":"*","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\components\\main1.tsx#":{"id":"170","chunks":["920:920-95ebb69c35b19cb2","931:app/page-297f403e734b557f"],"name":"","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\components\\main1.tsx#Main1":{"id":"170","chunks":["920:920-95ebb69c35b19cb2","931:app/page-297f403e734b557f"],"name":"Main1","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\[loja]\\[produto]\\page.tsx":{"id":"1142","chunks":["784:9d89bbae-f4333af4125d7236","925:118af8ed-e5df7a757e47d4b6","920:920-95ebb69c35b19cb2","590:590-355aa0015047e9e6","609:609-906181a082292361","358:app/[loja]/[produto]/page-a63bd449f876a870"],"name":"*","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\[loja]\\[produto]\\page.tsx#":{"id":"1142","chunks":["784:9d89bbae-f4333af4125d7236","925:118af8ed-e5df7a757e47d4b6","920:920-95ebb69c35b19cb2","590:590-355aa0015047e9e6","609:609-906181a082292361","358:app/[loja]/[produto]/page-a63bd449f876a870"],"name":"","async":false},"C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\[loja]\\[produto]\\page.tsx#default":{"id":"1142","chunks":["784:9d89bbae-f4333af4125d7236","925:118af8ed-e5df7a757e47d4b6","920:920-95ebb69c35b19cb2","590:590-355aa0015047e9e6","609:609-906181a082292361","358:app/[loja]/[produto]/page-a63bd449f876a870"],"name":"default","async":false}}
+{
+  "__ssr_module_mapping__": {
+    "(app-client)/./node_modules/next/dist/client/components/app-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/error-boundary.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/layout-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./src/assests/logoDoSite.png": {
+      "*": {
+        "id": "(sc_client)/./src/assests/logoDoSite.png",
+        "chunks": [
+          "app/login/page:app/login/page"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/assests/logoDoSite.png",
+        "chunks": [
+          "app/login/page:app/login/page"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/assests/logoDoSite.png",
+        "chunks": [
+          "app/login/page:app/login/page"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/link.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "chunks": [
+          "app/login/page:app/login/page"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "chunks": [
+          "app/login/page:app/login/page"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "chunks": [
+          "app/login/page:app/login/page"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/main1.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/main1.tsx",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/components/main1.tsx",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "name": "",
+        "async": false
+      },
+      "Main1": {
+        "id": "(sc_client)/./src/components/main1.tsx",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "name": "Main1",
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/layout.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/layout.tsx",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/layout.tsx",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/layout.tsx",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/mainPageLogin.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/mainPageLogin.tsx",
+        "chunks": [
+          "app/login/page:app/login/page"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/components/mainPageLogin.tsx",
+        "chunks": [
+          "app/login/page:app/login/page"
+        ],
+        "name": "",
+        "async": false
+      },
+      "MainPageLogin": {
+        "id": "(sc_client)/./src/components/mainPageLogin.tsx",
+        "chunks": [
+          "app/login/page:app/login/page"
+        ],
+        "name": "MainPageLogin",
+        "async": false
+      }
+    }
+  },
+  "__edge_ssr_module_mapping__": {},
+  "__entry_css_files__": {
+    "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\layout": [
+      "static/css/app/layout.css"
+    ]
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\client\\components\\app-router.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\client\\components\\app-router.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\client\\components\\app-router.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\client\\components\\error-boundary.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\client\\components\\error-boundary.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\client\\components\\error-boundary.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\client\\components\\layout-router.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\client\\components\\layout-router.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\client\\components\\layout-router.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\assests\\logoDoSite.png": {
+    "id": "(app-client)/./src/assests/logoDoSite.png",
+    "chunks": [
+      "app/login/page:app/login/page"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\assests\\logoDoSite.png#": {
+    "id": "(app-client)/./src/assests/logoDoSite.png",
+    "chunks": [
+      "app/login/page:app/login/page"
+    ],
+    "name": "",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\assests\\logoDoSite.png#default": {
+    "id": "(app-client)/./src/assests/logoDoSite.png",
+    "chunks": [
+      "app/login/page:app/login/page"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\client\\link.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "chunks": [
+      "app/login/page:app/login/page"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\esm\\client\\link.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "chunks": [
+      "app/login/page:app/login/page"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\client\\link.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "chunks": [
+      "app/login/page:app/login/page"
+    ],
+    "name": "",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\esm\\client\\link.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "chunks": [
+      "app/login/page:app/login/page"
+    ],
+    "name": "",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\client\\link.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "chunks": [
+      "app/login/page:app/login/page"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\node_modules\\next\\dist\\esm\\client\\link.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "chunks": [
+      "app/login/page:app/login/page"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\components\\main1.tsx": {
+    "id": "(app-client)/./src/components/main1.tsx",
+    "chunks": [
+      "app/page:app/page"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\components\\main1.tsx#": {
+    "id": "(app-client)/./src/components/main1.tsx",
+    "chunks": [
+      "app/page:app/page"
+    ],
+    "name": "",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\components\\main1.tsx#Main1": {
+    "id": "(app-client)/./src/components/main1.tsx",
+    "chunks": [
+      "app/page:app/page"
+    ],
+    "name": "Main1",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\globals.css#": {
+    "id": "null",
+    "name": "",
+    "chunks": [
+      "static/css/app/layout.css"
+    ]
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\layout.tsx": {
+    "id": "(app-client)/./src/app/layout.tsx",
+    "chunks": [
+      "app/layout:app/layout"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\layout.tsx#": {
+    "id": "(app-client)/./src/app/layout.tsx",
+    "chunks": [
+      "app/layout:app/layout"
+    ],
+    "name": "",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\app\\layout.tsx#default": {
+    "id": "(app-client)/./src/app/layout.tsx",
+    "chunks": [
+      "app/layout:app/layout"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\components\\mainPageLogin.tsx": {
+    "id": "(app-client)/./src/components/mainPageLogin.tsx",
+    "chunks": [
+      "app/login/page:app/login/page"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\components\\mainPageLogin.tsx#": {
+    "id": "(app-client)/./src/components/mainPageLogin.tsx",
+    "chunks": [
+      "app/login/page:app/login/page"
+    ],
+    "name": "",
+    "async": false
+  },
+  "C:\\Users\\Jay-c\\Documents\\like vendas\\like-vendas\\src\\components\\mainPageLogin.tsx#MainPageLogin": {
+    "id": "(app-client)/./src/components/mainPageLogin.tsx",
+    "chunks": [
+      "app/login/page:app/login/page"
+    ],
+    "name": "MainPageLogin",
+    "async": false
+  }
+}
